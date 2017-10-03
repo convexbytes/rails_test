@@ -1,0 +1,43 @@
+[94m[INFO 01:46:29.538414][0m [synapse-main:266] Starting up...
+[94m[INFO 01:46:29.605059][0m [synapse-main:208] Binding activation to Super_L
+[94m[INFO 01:46:29.629850][0m [view-base:251] Screen is composited.
+[94m[INFO 01:46:29.630415][0m [controller:57] Using gtk-im-context-simple input method.
+[93m[WARN 01:46:29.681492][0m [desktop-file-service:343] Desktop session type is not recognized, assuming GNOME.
+[93m[WARN 01:46:29.681572][0m [relevancy-backend-zg:63] Unable to check Zeitgeist data sources: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.zeitgeist.Engine was not provided by any .service files
+[93m[WARN 01:46:29.681638][0m [relevancy-backend-zg:123] GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.zeitgeist.Engine was not provided by any .service files
+[93m[WARN 01:46:29.681686][0m [relevancy-backend-zg:209] GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.zeitgeist.Engine was not provided by any .service files
+[93m[WARN 01:46:29.689455][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.690276][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.691105][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.691718][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.692283][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.693288][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.693787][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.694270][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.694679][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.695017][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.695402][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.695715][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.696022][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.696320][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.696779][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.697089][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.697394][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.697680][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.697953][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.698144][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.698464][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.698733][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.699157][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.699592][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.699909][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.700422][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.700709][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.701018][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.701315][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.701590][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.701851][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.702130][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.702411][0m [desktop-file-service:72] X-Cinnamon is not understood
+[93m[WARN 01:46:29.706948][0m [desktop-file-service:196] Unable to create AppInfo for /usr/share/applications/mintinstall-kde.desktop
+[93m[WARN 01:46:29.707578][0m [desktop-file-service:72] X-C
